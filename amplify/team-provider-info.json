@@ -1,0 +1,20 @@
+{
+    "notes": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-amplify-notetaker-notes-145745-authRole",
+            "UnauthRoleArn": "arn:aws:iam::971259243149:role/amplify-amplify-notetaker-notes-145745-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::971259243149:role/amplify-amplify-notetaker-notes-145745-authRole",
+            "Region": "eu-west-2",
+            "DeploymentBucketName": "amplify-amplify-notetaker-notes-145745-deployment",
+            "UnauthRoleName": "amplify-amplify-notetaker-notes-145745-unauthRole",
+            "StackName": "amplify-amplify-notetaker-notes-145745",
+            "StackId": "arn:aws:cloudformation:eu-west-2:971259243149:stack/amplify-amplify-notetaker-notes-145745/6c6b2f60-2014-11ea-b811-060e4e394d84",
+            "AmplifyAppId": "dddswunfkqt0q"
+        },
+        "categories": {
+            "auth": {
+                "amplifynotetaker1d1ab081": {}
+            }
+        }
+    }
+}
